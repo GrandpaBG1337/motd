@@ -11,4 +11,4 @@
 - Harassing or bullying specific users/groups.
 - Racism or bigotry.
 
-Join our **[Discord server](https://Discord.gg/n9TJ5hr73C)** for updates or casual chats daily! 😉
+Join our **<a id="Discord Server">https://Discord.gg/n9TJ5hr73C</>** for updates or casual chats daily! 😉
