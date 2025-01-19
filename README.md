@@ -12,3 +12,9 @@
 - Racism or bigotry.
 
 <a href="https://discord.gg/mordhau" id="Hyperlink-example">Join our Discord server!</a>
+- Racism or bigotry.
+- Racism or bigotry.
+- Racism or bigotry.
+- Racism or bigotry.
+- Racism or bigotry.
+- Racism or bigotry.
