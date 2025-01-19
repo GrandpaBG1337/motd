@@ -11,4 +11,4 @@
 - Harassing or bullying specific users/groups.
 - Racism or bigotry.
 
-Join our **<a id="Discord Server">https://Discord.gg/n9TJ5hr73C</>** for updates or casual chats daily! 😉
+<a href="https://discord.gg/mordhau" id="Hyperlink-example">Join our Discord server!</a>
