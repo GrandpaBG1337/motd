@@ -1,6 +1,6 @@
 # Welcome to Grandpa's Chaos Server!
 
-**FFFA fights are allowed, but only if both players agree, kind of like a feud. If you start fights without asking first and keep doing it, you might get a temporary ban (up to 1 hour). Let’s keep it fun for everyone!
+**FFA fights are allowed, but only if both players agree, kind of like a feud. If you start fights without asking first and keep doing it, you might get a temporary ban (up to 1 hour). Let’s keep it fun for everyone!
 
 ## Rules:
 - No FFA in duel zones.
